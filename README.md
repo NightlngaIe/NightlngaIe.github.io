@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Hui Zhang （张辉）</h1>
+      <h1>Hui ZHANG （张辉）</h1>
       <p><b>PhD in Department of Electronic and Computer Engineering</b></p>
       <p><b>Jiangnan University</b></p>
       <p><b>Tel.: +86 15195892020</b></p>
