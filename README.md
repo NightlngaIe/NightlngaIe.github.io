@@ -42,33 +42,26 @@
 
 ## Publications
 ### Submitted Papers
-- Hanxiao Liu, **Yuqing Ni**, Lihua Xie, Karl Henrik Johansson, "How Vulnerable is Innovation-based Remote State Estimation: Fundamental Limits under Linear Attacks", *Automatica*, provisionally accepted as Regular Paper.
+- **Hui Zhang**, "", *Automatica*, provisionally accepted as Regular Paper.
 
 ### Journal Papers
-- [J5] **Yuqing Ni**, Xiaoqiang Ren, Subhrakanti Dey, Ling Shi, "Remote State Estimation with a Strategic Sensor Using a Stackelberg Game Framework", *IEEE Transactions on Control of Network Systems*, accepted. [PDF](https://ieeexplore.ieee.org/document/9424442)
-- [J4] **Yuqing Ni**, Junfeng Wu, Li Li, Ling Shi, "Multi-Party Dynamic State Estimation that Preserves Data and Model Privacy", *IEEE Transactions on Information Forensics and Security*, vol. 16, pp.2288-2299, 2021. [PDF](https://ieeexplore.ieee.org/document/9321546/keywords#keywords)
-- [J3] Ziyang Guo, **Yuqing Ni** (Corresponding author), Wing Shing Wong, Ling Shi, "Time Synchronization Attack and Countermeasure for Multi-System Scheduling in Remote Estimation", *IEEE Transactions on Automatic Control*, vol. 66, issue 2, pp.916-923, 2021. [PDF](https://ieeexplore.ieee.org/document/9099615)
-- [J2] **Yuqing Ni**, Ziyang Guo, Yilin Mo, Ling Shi, "On the Performance Analysis of Reset Attack in Cyber-Physical Systems", *IEEE Transactions on Automatic Control*, vol. 65, issue 1, pp.419-425, 2020. [PDF](https://ieeexplore.ieee.org/document/8704930)
-- [J1] **Yuqing Ni**, Alex S. Leong, Daniel E. Quevedo, Ling Shi, "Pricing and Selection of Channels for Remote State Estimation Using a Stackelberg Game Framework", *IEEE Transactions on Signal and Information Processing over Networks*, vol. 5, issue 4, pp.657-668, 2019. [PDF](https://ieeexplore.ieee.org/document/8786167)
+
+- [J2] **Hui Zhang**, "", **, vol. 65, issue 1, pp.419-425, 2020. [PDF]()
+- [J1] **Hui Zhang**, "", **, vol. 5, issue 4, pp.657-668, 2019. [PDF]()
 
 ### Conference Papers
-- [C4] Hanxiao Liu, **Yuqing Ni**, Lihua Xie, Karl Henrik Johansson, "An Optimal Linear Attack Strategy on Remote State Estimation", *IFAC World Congress*, Berlin, Germany, 2020. [PDF](https://www.sciencedirect.com/science/article/pii/S2405896320323247)
-- [C3] **Yuqing Ni**, Kemi Ding, Yong Yang, Ling Shi, "On the Performance Analysis of Binary Hypothesis Testing with Byzantine Sensors", *Chinese Control Conference (CCC)*, Guangzhou, China, 2019. [PDF](https://ieeexplore.ieee.org/document/8866367)
-- [C2] Kam Fai Elvis Tsang, **Yuqing Ni**, Cheuk Fung Raphael Wong, Ling Shi, "A Novel Warehouse Multi-Robot Automation System with Semi-Complete and Computationally Efficient Path Planning and Adaptive Genetic Task Allocation Algorithms", *International Conference on Control, Automation, Robotics and Vision (ICARCV)*, Singapore, 2018. [PDF](https://ieeexplore.ieee.org/document/8581092)
-- [C1] **Yuqing Ni**, Alex S. Leong, Daniel E. Quevedo, Ling Shi, "Game-Theoretic Pricing and Selection with Fading Channels", *Asian Control Conference (ASCC)*, Gold Coast, Australia, 2017. [PDF](https://ieeexplore.ieee.org/document/8287296)
+- [C2] **Hui Zhang**, "", *IFAC World Congress*, Berlin, Germany, 2020. [PDF]()
+- [C1] **Hui Zhang**, "", *Asian Control Conference (ASCC)*, Gold Coast, Australia, 2017. [PDF]()
 
 ### Other Publications
-- **Yuqing Ni**, Ziyang Guo, Ling Shi, "Cyber-Physical Systems Security: A Control-Theoretic Approach", *Encyclopedia of Systems and Control*, Springer, 2019. [PDF](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4471-5102-9_100138-1)
+- **Hui Zhang**, , "", **, , 2019. [PDF]()
 
 ## Academic Activities
 ### Invited Seminars
 - "Privacy- and Security-Aware Remote State Estimation", College of Control Science and Engineering, Zhejiang University, Aug. 2020.
-- "On the Performance Analysis of Reset Attack and Time Synchronization Attack in Cyber-Physical Systems", Department of Automation, Shanghai University, Oct. 2019.
-- "On the Performance Analysis of Binary Hypothesis Testing with Byzantine Sensors", 2019 Shanghai University-wide International Young Scholar Forum "Control Science and Engineering" Sub-forum -- ECUST "Information Technology" Young Scholar Forum, East China University of Science and Technology, Mar. 2019.
 
 ### Teaching Assistant
 - EESM 5730 Modern Control Systems Design, Fall 2017, Spring 2018, Spring 2019, Spring 2020
-- ELEC 3200 System Modeling, Analysis and Control, Spring 2017, Fall 2017
 
 ### Journal Review
 - Automatica
