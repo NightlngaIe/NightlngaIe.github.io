@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title></title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">张辉 Hui Zhang</div>
+<div class="menu-item"><a href="index.html" class="current">主页</a></div>
+<div class="menu-item"><a href="wel.html">Welcome</a></div>
+<div class="menu-item"><a href="bio.html">Biography</a></div>
+<div class="menu-item"><a href="pub.html">Publications</a></div>
+<div class="menu-item"><a href="act.html">Activities</a></div>
+<div class="menu-item"><a href="misc.html">Miscellaneous</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>张辉 Hui Zhang</h1>
+</div>  
+<table class="imgtable"><tr><td>
+<img src="" alt="Yuqing NI" width="200px" />&nbsp;</td>
+<td align="left"><p><b>张辉</b></p>
+<p>副教授<br />
+<a href="https://www.jiangnan.edu.cn/index.htm">江南大学</a> | <a href="http://apcli.jiangnan.edu.cn/">轻工过程先进控制教育部重点实验室</a><br /></p>
+<br />
+<br />
+<br />
+<p>地址：江苏省无锡市蠡湖大道1800号 江南大学 物联网工程学院<br />
+邮箱：yuqingni@jiangnan.edu.cn</p>
+</td></tr></table>
+  
+  
+<h2>研究领域</h2>
+<ul><li>网络化控制系统估计与优化</li></ul>
+<ul><li>信息物理系统隐私与安全</li></ul>
+<ul><li>数据挖掘与深度强化学习</li></ul> 
 
-You can use the [editor on GitHub](https://github.com/NightlngaIe/HuiZhangJNU.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>个人简历</h2>
+倪雨青，女，江南大学轻工过程先进控制教育部重点实验室副教授。2016年毕业于浙江大学自动化（控制）系，获工学学士学位，随后就读于香港科技大学电子与计算机工程学系，并于2020年获得博士学位。曾先后在加州大学洛杉矶分校、瑞典皇家理工学院进行交流访问，并在杭州华为企业通信技术有限公司担任高级工程师一职，于2021年加入江南大学物联网工程学院。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NightlngaIe/HuiZhangJNU.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+主要研究方向包括信息物理系统隐私与安全，网络化控制系统估计与优化，数据挖掘与深度强化学习等。担任Automatica、IEEE Transactions on Control of Network Systems、Information Sciences、IEEE Transactions on Network Science and Engineering、Control Theory and Technology、International Journal of Robust and Nonlinear Control等国内外期刊审稿人。
+<br />
+<br />
+<br />
+<div align="center">
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7868091&style=0006&nbdigits=6&type=page&initCount=55" title="Free Counter" Alt="web counter"   border="0" /></a>          
+</div>
+  
+<div id="footer">
+<div id="footer-text">
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
