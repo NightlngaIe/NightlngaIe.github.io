@@ -2,14 +2,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Yuqing NI （倪雨青）</h1>
+      <h1>Hui Zhang （张辉）</h1>
       <p><b>PhD in Department of Electronic and Computer Engineering</b></p>
-      <p><b>Hong Kong University of Science and Technology</b></p>
-      <p><b>Tel.: +86 18868120228</b></p>
-      <p><b>Email: yniac@connect.ust.hk</b></p>
+      <p><b>Jiangnan University</b></p>
+      <p><b>Tel.: +86 15195892020</b></p>
+      <p><b>Email: zhanghui9776@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/YuqingNi/yuqingni.github.io/raw/master/yuqing1.jpg" width="100%" />
+      <img src="" width="100%" />
     </td>
   </tr>
 </table>
@@ -21,33 +21,24 @@
 - Game theory
 
 ## Experience
-- Aug. 2020 – Present, **Senior Engineer**, Algorithm Innovation Lab, **Huawei Cloud BU**, Hangzhou, P.R. China
+- Aug. 2019 – Present, **Senior Engineer**, Algorithm Innovation Lab, **Huawei Cloud BU**, Hangzhou, P.R. China
 
-- Apr. 2019 – Jun. 2019, **Visiting Student**, Electrical Engineering and Computer Science, **KTH Royal Institute of Technology**, Stockholm, Sweden
-  - Supervisor: [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/)
-  
-- Jul. 2015 - Sep. 2015, **Visiting Student**, Chemical and Biomolecular Engineering, **University of California**, Los Angeles, USA
-  - Supervisor: [Prof. Vasilios Manousiouthakis](https://samueli.ucla.edu/people/vasilios-manousiouthakis/)
+- Apr. 2019 – Present, **Visiting Student**, Electrical Engineering and Computer Science, **Jiangnan University**, Wuxi, P.R. China
+  - Supervisor: [Prof. Fei Liu](http://iot.jiangnan.edu.cn/info/1059/1527.htm)
 
 
 ## Education
-- Sep. 2016 – Jul. 2020, **PhD**, Department of Electronic and Computer Engineering, **Hong Kong University of Science and Technology**, Hong Kong SAR, P.R. China
-  - Supervisor: [Prof. Ling Shi](https://eesling.home.ece.ust.hk/)
-  - PhD Thesis Title: Privacy- and Security-Aware Remote State Estimation
+- Sep. 2021 – Present, **PhD**, Department of Electronic and Computer Engineering, **Jiangnan University**, Wuxi, P.R. China
+  - Supervisor: [Prof. Fei Liu](http://iot.jiangnan.edu.cn/info/1059/1527.htm)
+  - PhD Thesis Title: Distributed Set-Membership Estimation for Markovian Jump Systems
   
-- Sep. 2012 – Jun. 2016, **B.Eng.**, College of Control Science and Engineering, **Zhejiang University**, Hangzhou, P.R. China
+- Sep. 2019 – Jun. 2021, **M.E.**, Department of Electronic and Computer Engineering, **Jiangnan University**, Wuxi, P.R. China
 
-- Sep. 2012 - Jun. 2014, Mixed Honors Class, Chu Kochen Honors College, **Zhejiang University**, Hangzhou, P.R. China
-  - Prestigious Program gathering top 5% of students for their first two years of study at Zhejiang University
+- Sep. 2015 - Jun. 2019, **B.E.**, Department of Electronic and Computer Engineering, **Nanjing Institute of Technology**, Nanjing, P.R. China
 
 
 ## Awards
-- Overseas Research Award, Hong Kong University of Sci. & Tech., 2019
-- SENG Top RPG Award, Hong Kong University of Sci. & Tech., 2018
-- Research Travel Grant, Hong Kong University of Sci. & Tech., 2017
-- Second-Class Scholarship, Zhejiang University, 2014, 2015
-- First-Class Scholarship, Zhejiang University, 2013
-- First Prize in the Amateur Brass Band Contest, Zhejiang Province, 2013
+- Second-Class Scholarship, Nanjing Institute of Technology, 2015
 
 ## Publications
 ### Submitted Papers
