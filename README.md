@@ -21,7 +21,7 @@
 - Game theory
 
 ## Experience
-- Aug. 2019 – Present, **Senior Engineer**, Algorithm Innovation Lab, **Huawei Cloud BU**, Hangzhou, P.R. China
+%- Aug. 2019 – Present, **Senior Engineer**, Algorithm Innovation Lab, **Huawei Cloud BU**, Hangzhou, P.R. China
 
 - Apr. 2019 – Present, **Visiting Student**, Electrical Engineering and Computer Science, **Jiangnan University**, Wuxi, P.R. China
   - Supervisor: [Prof. Fei Liu](http://iot.jiangnan.edu.cn/info/1059/1527.htm)
