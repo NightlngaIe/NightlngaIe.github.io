@@ -24,7 +24,7 @@
 <h1>张辉 Hui Zhang</h1>
 </div>  
 <table class="imgtable"><tr><td>
-<img src="" alt="Yuqing NI" width="200px" />&nbsp;</td>
+<img src="" alt="Zhang Hui" width="200px" />&nbsp;</td>
 <td align="left"><p><b>张辉</b></p>
 <p>副教授<br />
 <a href="https://www.jiangnan.edu.cn/index.htm">江南大学</a> | <a href="http://apcli.jiangnan.edu.cn/">轻工过程先进控制教育部重点实验室</a><br /></p>
@@ -42,7 +42,7 @@
 <ul><li>数据挖掘与深度强化学习</li></ul> 
 
 <h2>个人简历</h2>
-倪雨青，女，江南大学轻工过程先进控制教育部重点实验室副教授。2016年毕业于浙江大学自动化（控制）系，获工学学士学位，随后就读于香港科技大学电子与计算机工程学系，并于2020年获得博士学位。曾先后在加州大学洛杉矶分校、瑞典皇家理工学院进行交流访问，并在杭州华为企业通信技术有限公司担任高级工程师一职，于2021年加入江南大学物联网工程学院。
+张辉，男，江南大学轻工过程先进控制教育部重点实验室副教授。2016年毕业于浙江大学自动化（控制）系，获工学学士学位，随后就读于香港科技大学电子与计算机工程学系，并于2020年获得博士学位。曾先后在加州大学洛杉矶分校、瑞典皇家理工学院进行交流访问，并在杭州华为企业通信技术有限公司担任高级工程师一职，于2021年加入江南大学物联网工程学院。
 
 主要研究方向包括信息物理系统隐私与安全，网络化控制系统估计与优化，数据挖掘与深度强化学习等。担任Automatica、IEEE Transactions on Control of Network Systems、Information Sciences、IEEE Transactions on Network Science and Engineering、Control Theory and Technology、International Journal of Robust and Nonlinear Control等国内外期刊审稿人。
 <br />
